@@ -8,7 +8,7 @@
 
 This project was created as a final project for our Statistical Data Science Class that goes over the fundamentals of utilizing IPython for data science, while we adopt the sklearn package to develop machine learning models. Our project is divided into two different IPython notebooks. The first notebook containing our exploratory data analysis, and the second containing our predictions on the data using different machine learning models.
 
-The data is obtained from the official Disney World tour website. It consists of features such as max temperature, percentage of kids in school, and more in a given day.
+The data is obtained from the official Disney World tour website. It consists of features such as max temperature, and percentage of kids in school in a given day.
 
 ## Methods
 - Data preprocessing
