@@ -15,7 +15,7 @@ The data is obtained from the official Disney World tour website. It consists of
 - Feature engineering
 - Exploratory Data Analysis
 - Linear Regression
-- Different regularization techniques
+- Reguralization techniques
 - Random Forest
 
 ## Poster session
